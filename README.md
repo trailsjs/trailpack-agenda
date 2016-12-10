@@ -1,12 +1,10 @@
 # trailpack-agenda
 Trailpack for Agenda Job Scheduler - https://github.com/rschmukler/agenda
 
-[![NPM version][npm-image]][npm-url]
+<!--[![NPM version][npm-image]][npm-url]
 [![Build status][ci-image]][ci-url]
 [![Dependency Status][daviddm-image]][daviddm-url]
-[![Code Climate][codeclimate-image]][codeclimate-url]
-
-Trailpack for Agenda job scheduler
+[![Code Climate][codeclimate-image]][codeclimate-url]-->
 
 ## Install
 

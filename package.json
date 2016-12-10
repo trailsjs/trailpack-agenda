@@ -1,21 +1,17 @@
 {
   "name": "trailpack-agenda",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Trailpack for Agenda job scheduler",
-  "homepage": "http://trailsjs.io",
-  "author": {
-    "name": "Nishchit Dhanani",
-    "email": "dnishchit@gmail.com",
-    "url": "jsbot.io"
-  },
+  "homepage": "http://jsbot.io",
+  "author": "Nishchit Dhanani <dnishchit@gmail.com> (jsbot.io)",
   "main": "index.js",
   "keywords": [
-    "",
     "trailpack",
     "trails",
     "trailjs"
   ],
   "dependencies": {
+    "agenda": "^0.9.0",
     "trailpack": "latest"
   },
   "devDependencies": {
@@ -36,6 +32,15 @@
   "eslintConfig": {
     "extends": "trails"
   },
-  "repository": "https://github.com/trailsjs/trailpack-agenda.git",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trailsjs/trailpack-agenda.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trailsjs/trailpack-agenda/issues"
+  },
+  "directories": {
+    "test": "test"
+  }
 }
