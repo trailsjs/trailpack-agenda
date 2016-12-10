@@ -1,4 +1,5 @@
 # trailpack-agenda
+Trailpack for Agenda Job Scheduler - https://github.com/rschmukler/agenda
 
 [![NPM version][npm-image]][npm-url]
 [![Build status][ci-image]][ci-url]
